@@ -17,14 +17,14 @@
     "browserDependencies": "all",
     "manifest": {
       "bootstrap": {
-        "main": null,
+        "browser": false,
         "less": [
           "less/bootstrap.less",
           "less/theme.less"
         ]
       },
       "jquery": {
-        "main": null
+        "browser": false
       }
     }
   }
