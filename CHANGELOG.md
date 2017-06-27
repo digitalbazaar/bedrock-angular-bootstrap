@@ -1,5 +1,7 @@
 # bedrock-angular-bootstrap ChangeLog
 
+## 1.1.0 - 2017-06-27
+
 ### Changed
 - Add overrides to ignore bootstrap and jquery javascript.
 
