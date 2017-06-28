@@ -22,9 +22,6 @@
           "less/bootstrap.less",
           "less/theme.less"
         ]
-      },
-      "jquery": {
-        "browser": false
       }
     }
   }
